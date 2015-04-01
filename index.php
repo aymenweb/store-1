@@ -5,7 +5,7 @@
 <body>
 <?php
 $var = 'la vie est belle';
-echo 'bonjour tout le monde';
+echo 'bonjour tout le mondes';
 print $var;
 ?>
 </body>

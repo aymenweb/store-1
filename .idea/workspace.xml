@@ -26,7 +26,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.4712042" vertical-offset="0" max-vertical-offset="382">
+            <state line="12" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.36734694" vertical-offset="0" max-vertical-offset="490">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/store/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="54" selection-start="669" selection-end="669" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="1035">
               <folding />
             </state>
           </provider>
@@ -50,8 +59,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="82" />
     <option name="y" value="62" />
-    <option name="width" value="968" />
-    <option name="height" value="509" />
+    <option name="width" value="967" />
+    <option name="height" value="617" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -98,6 +107,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="store" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -135,11 +158,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="62" width="968" height="509" extended-state="0" />
+    <frame x="82" y="62" width="967" height="617" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29752067" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2895553" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -175,9 +198,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/store/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="33" selection-start="1103" selection-end="1103" vertical-scroll-proportion="0.754717" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="0" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.8113208" vertical-offset="48" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/store/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="54" selection-start="669" selection-end="669" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="124" selection-end="124" vertical-scroll-proportion="0.4712042" vertical-offset="0" max-vertical-offset="382">
+        <state line="12" column="0" selection-start="125" selection-end="125" vertical-scroll-proportion="0.36734694" vertical-offset="0" max-vertical-offset="490">
           <folding />
         </state>
       </provider>
